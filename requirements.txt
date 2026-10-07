@@ -1,0 +1,6 @@
+requests
+pandas
+pyarrow
+sqlalchemy
+pg8000
+python-dotenv
